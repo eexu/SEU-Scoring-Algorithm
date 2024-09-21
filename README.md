@@ -14,7 +14,7 @@ $$
 N=\frac{\sum C_i N_i}{\sum C_i}
 $$
 
-where $C_i$ is the credit of the $i$th course and $N_i$ is its correspongidng Standardised Results.
+where $C_i$ is the credit of the $i$ th course and $N_i$ is its correspongidng Standardised Results.
 
 **Reference:**
 
