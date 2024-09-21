@@ -9,3 +9,9 @@ Assuming the average score of a course is $X$ and your score is $Y$, the Standar
 2. Weighted Standardise Results.
 
 Weighted the Standatdise Results with credits.
+
+$$
+N=\frac{\sum C_i^* N_i}{\sum C_i}
+$$
+
+where $Ci$ is the credit of the $i$th course and $N_i$ is its correspongidng Standardised Results.
